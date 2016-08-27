@@ -9,6 +9,6 @@
 
 int main(int argc, char **argv)
 {
-  printf("Hello, world!\r\n");
+  printf("Hello, World!\r\n");
   return 0;
 }
